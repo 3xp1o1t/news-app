@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Apliacion de noticias creada con Next.JS y News API
+
+Aplicacion basada en el curso de Mindudev para utilizar Next.js
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/
+packages/create-next-app).
 
 ## Getting Started
 
