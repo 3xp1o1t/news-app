@@ -9,7 +9,7 @@ export default function Home() {
         <title>News App - Home</title>
       </Head>
 
-      <h1>Aprendiendo Next.js desde 0</h1>
+      <h1 className={styles.title}>Aprendiendo Next.js desde 0</h1>
     </div>
   )
 }
